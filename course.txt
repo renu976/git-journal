@@ -1,1 +1,2 @@
-Course: Devops with jenkins
+Course : Devops with git and jenkin
+
